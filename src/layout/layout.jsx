@@ -15,7 +15,7 @@ const Layout = (props) => {
                         </li>
                         <li  className="list">
 
-                        <Link className="gitLink" to={'https://github.com/MohanManirul/react_blog_template_mastering'}>Git Link</Link>
+                        <Link className="gitLink" to={'https://github.com/MohanManirul/react-e-commerce-template'}>Git Link</Link>
                         </li>
                     
                     </ul>
